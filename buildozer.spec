@@ -1,6 +1,6 @@
 [app]
-title = Neon Casino
-package.name = neoncasino
+title = Prikol kazino
+package.name = Prikol kazino
 package.domain = org.fun
 source.dir = .
 source.include_exts = py,png,jpg,ttf
